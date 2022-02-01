@@ -1,6 +1,7 @@
 # Data-Science-With-Tableau
 Welcome to my Data Science with Tableau Portfolio.<br>
 This repository documents part of my Data Science Journey.<br>
+You can find me on Tableau Public. <br>
 [Hire Me](https://www.linkedin.com/in/natasha-newbold/)
 
 > Project start date: January 2022 <br>
