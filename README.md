@@ -14,4 +14,5 @@ You can find me on Tableau Public. <br>
 
 Challenge: I'm preparing a report for management. They want to see how the sales forecast compares to actual sales. In this hands-on-activity, I build a combined axis chart to answer the question: 
 ### How does Budget Sales compare to actual Sales over the last few years?
-[Budget Sales & Sales graph]()
+![Budget Sales & Sales graph](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Budge%20Sales%20%26%20Sales%20Graph.JPG)<br>
+The Dashboard and stroy can be found here: <br>
