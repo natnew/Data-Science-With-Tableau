@@ -74,3 +74,17 @@ Challenge:I'm working with a data set of hail storm damage reported in Minneapol
 <br>
 <br>
 <br>
+
+# Working with String and Type Conversion Functions
+Challenge: I have data that contains information about students. You would like to create a field, Student Name and ID that contains: 
+* The student’s last name in all capitals
+* The student’s first initial
+* The student’s ID
+* A comma and space after the last name, a period and space after the first initial, and the fixed string "ID:" and a space before the ID number. 
+For example, for the student Glen Adams, ID# 596, you would like the data to display as follows: <br>
+
+ADAMS, G. ID: 596<br>
+###
+![]()<br>
+<br>
+<br>
