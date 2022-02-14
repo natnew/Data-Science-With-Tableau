@@ -66,6 +66,7 @@ Challenge:I'm working with passenger data for European airports, and I’d like 
 ### Using the three-character IATA airport industry codes, I created a symbol map of the airport data, using size and color to compare the number of passengers for each airport in 2021. I limited map clutter by leveraging tooltips and removing unnecessary map layers. I added a filter to the view to help show which airports were the busiest.
 ![]()<br>
 <br>
+<br>
 
 # Creating a Density Map
 Challenge:I'm working with a data set of hail storm damage reported in Minneapolis, Minnesota, and I’d like to identify the neighborhoods with the most reported storm damage. 
@@ -73,7 +74,7 @@ Challenge:I'm working with a data set of hail storm damage reported in Minneapol
 ![]()<br>
 <br>
 <br>
-<br>
+
 
 # Working with String and Type Conversion Functions
 Challenge: I have data that contains information about students. You would like to create a field, Student Name and ID that contains: 
@@ -85,6 +86,24 @@ For example, for the student Glen Adams, ID# 596, you would like the data to dis
 
 ADAMS, G. ID: 596<br>
 ###
+![]()<br>
+<br>
+<br>
+
+# Using Histograms and Box & Whisker Plots to Show Distribution
+Challenge 1: I have data on student test scores, and I want to see the distribution of scores to understand how many students earned each score. 
+### I built a histogram with a bin size of 10. Then, to see more detail, I edited the bin size to 5. Finally, I edited the tick marks to match the bin size.<br>
+Challenge 2: I wanted to compare the distribution of SAT scores in each state, broken down by year and subject.
+### To accomplish this, I created a box & whisker plot that shows the year and subject of the test results, and used the Analytics pane to show the distribution of state values.
+![]()<br>
+<br>
+<br>
+
+# Creating Relationships between Tables
+Challenge: I am trying to find which of my customers has the most purchases (transactions) for a new store I opened called Wholesale Carbonated Beverages. I also want to know the quantity sold for each of my products. I have two Excel spreadsheets as my data sources. One contains sheets or tables for Products and Customers, and the other contains Transactions.<br>
+I need to connect to these two data sources, create relationships between the various tables, and build two visualizations to answer these questions:
+### Which customer had the most purchases?
+### What was the best-selling product?
 ![]()<br>
 <br>
 <br>
