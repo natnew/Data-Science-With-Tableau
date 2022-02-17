@@ -40,7 +40,7 @@ The Dashboard and story can be found here: <br>
 # Showing Breakdowns of the Whole Using Pie Charts
 Challenge: I have sales data that I want to present using two pie charts, one showing sales by customer segment and one showing sales by region. 
 ### I used two different methods to create my charts.
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Sales%20by%20Region%20pie%20chart.JPG)<br>
 The Dashboard and story can be found here: <br>
 <br>
 <br>
