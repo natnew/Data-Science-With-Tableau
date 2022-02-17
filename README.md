@@ -32,7 +32,7 @@ The Dashboard and story can be found here: <br>
 
 Challenge: I have been asked to create a text table that shows the average sales for each product within my company’s three departments across four sales regions. This will help users determine: 
 ### Which region has the highest average sales for each product within each category and sub-category?
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Sales%20Totals%20Table.JPG)<br>
 The Dashboard and story can be found here: <br>
 <br>
 <br>
@@ -49,7 +49,7 @@ The Dashboard and story can be found here: <br>
 Challenge: I'm looking at my organization’s sales data, and I want to see the relative contribution of each product category and region to your total sales. T
 ### To determine this, I built a tree map.
 The Dashboard and story can be found here: <br>
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Sales%20Tree%20Map.JPG)<br>
 <br>
 <br>
 
@@ -59,7 +59,8 @@ Challenge 1: I have sales data for office products. To compare 2018 and 2019 sal
 Challenge 2: Using data about coffee and product sales, I wanted to compare the actual sales to projected sales, and I wanted to see sales as a bar over distribution areas marking 50%, 75% and 100% points. 
 ### I added a line to mark the quota (projected sales), and used color to show whether a product met quota.
 The Dashboard and story can be found here: <br>
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Compare%20Bar%20in%20Bar%20Chart.JPG)<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Compare%20Bullet%20Graph.JPG)<br>
 <br>
 <br>
 
@@ -75,7 +76,7 @@ The Dashboard and story can be found here: <br>
 Challenge:I'm working with a data set of hail storm damage reported in Minneapolis, Minnesota, and I’d like to identify the neighborhoods with the most reported storm damage. 
 ### I created a density map of the street address locations of the reported hail storm damage, adjusted the combination of Color, Intensity, and Size to make the trends more apparent.
 The Dashboard and story can be found here: <br>
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Storm%20Damage%20Density%20Map.JPG)<br>
 <br>
 <br>
 
@@ -101,7 +102,7 @@ Challenge 1: I have data on student test scores, and I want to see the distribut
 Challenge 2: I wanted to compare the distribution of SAT scores in each state, broken down by year and subject.
 ### To accomplish this, I created a box & whisker plot that shows the year and subject of the test results, and used the Analytics pane to show the distribution of state values.
 The Dashboard and story can be found here: <br>
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Scores%20Histogram.JPG)<br>
 <br>
 <br>
 
