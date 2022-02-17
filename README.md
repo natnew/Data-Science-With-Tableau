@@ -68,7 +68,7 @@ The Dashboard and story can be found here: <br>
 Challenge:I'm working with passenger data for European airports, and I’d like to determine which airports were the busiest during a span of time. 
 ### Using the three-character IATA airport industry codes, I created a symbol map of the airport data, using size and color to compare the number of passengers for each airport in 2021. I limited map clutter by leveraging tooltips and removing unnecessary map layers. I added a filter to the view to help show which airports were the busiest.
 The Dashboard and story can be found here: <br>
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/European%20Aitport%20Map.JPG)<br>
 <br>
 <br>
 
@@ -137,13 +137,13 @@ Challenge: I need to create an interactive dashboard that allows users to get th
 I  created two filter actions, one that allows me to see the total medals by sport for each country and another that shows the medal winners for individual sports. 
 I  also added a Go to Sheet action to see additional details about each athlete who won medals in various sports.
 ###
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Sales%20Dashboard.JPG)<br>
 <br>
 <br>
 
 # Telling Stories with Data
 Challenge: Profit in the Furniture department of my company is very low, although sales are high compared to other departments. After analyzing the data, I have found that Table sales in the Eastern region have been deeply discounted. I created a data story to present your findings. 
 ###
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Story%20Tables%20in%20the%20East.JPG)<br>
 <br>
 <br>
