@@ -23,7 +23,7 @@ The Dashboard and story can be found here: <br>
 
 Challenge: I have been asked to create a view for my company that compares average sales with average marketing expenses, broken down by product type, state, and area code, to see if there is a relationship. I have built a scatter plot to answer this question: 
 ### What is the relationship between average marketing expenses and average sales?
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Using%20scatter%20plots%20to%20show%20relationships.JPG)<br>
 The Dashboard and story can be found here: <br>
 <br>
 <br>
@@ -92,7 +92,7 @@ For example, for the student Glen Adams, ID# 596, you would like the data to dis
 ADAMS, G. ID: 596<br>
 ###
 The Dashboard and story can be found here: <br>
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Working%20with%20string%20and%20type%20conversation%20functions.JPG)<br>
 <br>
 <br>
 
@@ -112,7 +112,7 @@ I need to connect to these two data sources, create relationships between the va
 ### Which customer had the most purchases?
 ### What was the best-selling product?
 The Dashboard and story can be found here: <br>
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Creating%20relationships%20between%20Tables.JPG)<br>
 <br>
 <br>
 
@@ -125,7 +125,7 @@ I also wanted to share this dashboard with my manager and colleagues so that the
 * Using the pie chart as a filter to drill down on data
 * Making the Market filter global so that the filtering applies to all views
 * Using the Segment color legend to highlight important data
-![]()<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Building%20Dashboards.JPG)<br>
 <br>
 <br>
 
@@ -137,7 +137,7 @@ Challenge: I need to create an interactive dashboard that allows users to get th
 I  created two filter actions, one that allows me to see the total medals by sport for each country and another that shows the medal winners for individual sports. 
 I  also added a Go to Sheet action to see additional details about each athlete who won medals in various sports.
 ###
-![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Sales%20Dashboard.JPG)<br>
+![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Creating%20Interactive%20Dashboards.JPG)<br>
 <br>
 <br>
 
