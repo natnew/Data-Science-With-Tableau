@@ -5,7 +5,7 @@ You can find me on Tableau Public. <br>
 [Hire Me](https://www.linkedin.com/in/natasha-newbold/)
 
 > Project start date: January 2022 <br>
-> Project updated: January 2022 <br>
+> Project updated: March 2022 <br>
 > Portfolio: [Tableau Public Gallery](https://public.tableau.com/app/discover/viz-of-the-day) <br>
 > Data Sources: [Data](https://github.com/natnew/Python-Projects-Data-Visualisation)<br>
 
@@ -145,5 +145,22 @@ I  also added a Go to Sheet action to see additional details about each athlete 
 Challenge: Profit in the Furniture department of my company is very low, although sales are high compared to other departments. After analyzing the data, I have found that Table sales in the Eastern region have been deeply discounted. I created a data story to present your findings. 
 ###
 ![](https://github.com/natnew/Data-Science-With-Tableau/blob/main/Story%20Tables%20in%20the%20East.JPG)<br>
+<br>
+<br>
+
+# Using Context Filters to Limit Scope
+Challenge: I am creating a view that showcases the top 10 products sold in each category. I built a view that filters the products to the top 10, and then creates a context filter to show the top 10 products in each category. <br>
+###
+![]()<br>
+<br>
+<br>
+
+# Using Calculated Fields
+![]()<br>
+<br>
+<br>
+
+# Blending Data Using Custom Relationships
+![]()<br>
 <br>
 <br>
