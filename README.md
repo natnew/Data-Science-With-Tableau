@@ -156,11 +156,53 @@ Challenge: I am creating a view that showcases the top 10 products sold in each 
 <br>
 
 # Using Calculated Fields
+Challenge: I have two sets of data: One has club membership data and the other shows total sales by member. I need to create a bar chart that shows how long the member with the greatest sales has been with the club. To do this, I use a cross-database join and then a join calculation to add sales information on the members.<br>
 ![]()<br>
 <br>
 <br>
 
 # Blending Data Using Custom Relationships
+Challenge: I have separate data sources for sales and quota data. I need a view that shows sales for each sub-region in the US as bars. The I use the quota from the other data source to create reference lines. Finally, I create a calculation to show whether sales have met quota, and use it to color the bars. <br>
+![]()<br>
+<br>
+<br>
+
+# Replacing Data Sources for Views
+Challenge: I created the Sales and Profit by Customer view. It uses the Superstore 2016 2019 data source. An updated data source is available, Superstore 2018 2021, and I want to update the view to use this new data source.
+
+After I download the starter workbook and new data source, I add the data source to the workbook. Modify the new data source to avoid potential impacts to the view. Then replace the data source, and resolve remaining impacts to the view.<br>
+![]()<br>
+<br>
+<br>
+
+# Aggregating Dimensions in Advanced Calculations
+Challenge: I am trying to create a strategy to increase profitability for a franchise of coffee shops. I would like to create a view that clearly organizes the profitable and unprofitable product categories. To do this, I will need to use a calculated field that contains an aggregated dimension.<br>
+![]()<br>
+<br>
+<br>
+
+# Writing Table Calculations in the Calculated Field Editor
+Challenge: My marketing team launches an annual campaign at the end of Q1 each year. 
+
+I want to show the growth of orders compared to Q1 of that year compared to the total number of customers. I use a LOOKUP function and a helper function when creating that calculated field. .<br>
+![]()<br>
+<br>
+<br>
+
+# Using Level of Detail Expressions
+Challenge: I want to show the average profit of each product sold, compared to average sales in each market and category. I use a FIXED calculation to show the average profit by product, and create a dual axis chart that compares these values to average sales.<br>
+![]()<br>
+<br>
+<br>
+
+# Using Fixed LOD Expressions for Cohort Analysis
+Challenge: I know that sales have been improving every year, but I want to know which group of customers contributed the most to overall sales, and how well I am retaining customers. I create a FIXED LOD expression to calculate a customer’s first order date, and use this field to see how each cohort purchases across each market and year.<br>
+![]()<br>
+<br>
+<br>
+
+# Making Projections with Trend Lines and Forecasts
+Challenge: I am the sales manager for a U.S. territory. I would like to see trend lines for Sales versus Profit in each of your company’s product categories. I would also like to segment the data to compare these trends across each region of the U.S. To do this, I create a scatter plot to compare Sales versus Profit. Then, I create panes using the Category and Region dimensions. This creates a group of charts that share the same axes and scales, referred to as small multiples. The small multiples enable me to compare trends across dimensions, Category and Region in this example, in a single view. What trends across categories and regions can you determine for sales and profit?<br>
 ![]()<br>
 <br>
 <br>
