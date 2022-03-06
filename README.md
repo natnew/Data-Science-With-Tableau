@@ -204,5 +204,23 @@ Challenge: I know that sales have been improving every year, but I want to know 
 # Making Projections with Trend Lines and Forecasts
 Challenge: I am the sales manager for a U.S. territory. I would like to see trend lines for Sales versus Profit in each of your company’s product categories. I would also like to segment the data to compare these trends across each region of the U.S. To do this, I create a scatter plot to compare Sales versus Profit. Then, I create panes using the Category and Region dimensions. This creates a group of charts that share the same axes and scales, referred to as small multiples. The small multiples enable me to compare trends across dimensions, Category and Region in this example, in a single view. What trends across categories and regions can you determine for sales and profit?<br>
 ![]()<br>
+![]()<br>
 <br>
 <br>
+
+# Using Parameters to Swap Measures
+Challenge: My audience would like to analyze multiple measures related to Superstore's products. They want to see totals for profit and sales, respectively, over time. To enable my audience to see each measure separately in the view, I'll provide dynamic selection by creating a parameter so they can switch between the measures they’d like to see in this  view.<br>
+![]()<br>
+
+Challenge: I have created a second parameter to give people even more control and flexibility by allowing them to change the aggregation type on the measure they select.<br>
+![]()<br>
+<br>
+<br>
+
+# Add Location Data
+Challenge: I want to add the location of the distribution center for each of the four regions on the map. I'll need to duplicate a field, and edit the location to create the view. Then I can create a map that shows the amount of traffic seen in each distribution center.<br>
+![]()<br>
+
+# Customizing Geocodes for Addresses
+Challenge: I own an Events Planning business and I would like to create an interactive map that displays event sites and the number of events at each location. My data is recorded in two separate data sources so I will need to blend the data.<br>
+![]()<br>
