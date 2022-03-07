@@ -224,3 +224,13 @@ Challenge: I want to add the location of the distribution center for each of the
 # Customizing Geocodes for Addresses
 Challenge: I own an Events Planning business and I would like to create an interactive map that displays event sites and the number of events at each location. My data is recorded in two separate data sources so I will need to blend the data.<br>
 ![]()<br>
+
+
+# Plot Data on an Image
+Challenge: I have data about workplace injuries, and you want to show which injuries are most common. To do this, I'll use a custom background image for my map and plot the injury locations data on top of the image.<br>
+![]()<br>
+
+# Navigating Between Dashboards
+Challenge: I have dashboards for two divisions of my organization that use two different data sources. I want to create a filter that applies to both dashboards, so that when I filter by Region on one dashboard, a link is created to the other dashboard that filters it by the selected regions. I also want to create a navigation button back to the original dashboard. <br>
+![]()<br>
+![]()<br>
