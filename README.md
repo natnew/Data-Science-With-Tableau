@@ -234,3 +234,12 @@ Challenge: I have data about workplace injuries, and you want to show which inju
 Challenge: I have dashboards for two divisions of my organization that use two different data sources. I want to create a filter that applies to both dashboards, so that when I filter by Region on one dashboard, a link is created to the other dashboard that filters it by the selected regions. I also want to create a navigation button back to the original dashboard. <br>
 ![]()<br>
 ![]()<br>
+
+# Data Preparation
+
+"Data preparation is the process of manipulating data into a form for further analysis. This manipulation includes cleaning, shaping, or combining it with other data sources. Regardless of its source, most data needs cleaning and shaping to optimize it for analysis." - Tableau
+
+# Clean data and produce an output file
+
+![]()<br>
+
