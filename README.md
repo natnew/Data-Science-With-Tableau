@@ -243,3 +243,23 @@ Challenge: I have dashboards for two divisions of my organization that use two d
 
 ![]()<br>
 
+# Types of Data
+Flat Files: <br>
+* PDFs
+* Microsoft Excel workbooks, such as XLSX files.
+* Text files, such as Comma Separated Values (CSV) files
+* Statistical files, such as RDATA and SAS files
+
+Tableau Data Extracts: <br>
+* .tde
+*  .hyper
+
+Tableau Published Data Sources: <br>
+* Tableau Server
+* Tableau Online
+
+Databsases:<br>
+* Microsoft SQL Server
+* Oracle
+* PostgresSQL
+* Google BigQuery
